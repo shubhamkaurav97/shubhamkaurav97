@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shubhamkaurav96@gmail.com**
 
-- ⚡ Fun fact **In Java you Write once and debug everywhere.**
+- ⚡ Fun fact **In Java you Write Once and Debug Everywhere.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
