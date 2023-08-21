@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=32&pause=1000&color=E64980&vCenter=true&width=1000&height=60&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Shubham+Kaurav!;A+passionate%2C+self-taught+Front+End+developer+from+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=32&pause=1000&color=E64980&vCenter=true&width=1000&height=60&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%F0%9F%99%8F%F0%9F%8F%BB%2C+I'm+Shubham+Kaurav!;A+passionate%2C+self-taught+Back+End+Developer+from+India)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate Java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkaurav97&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkaurav97" /> </p>
